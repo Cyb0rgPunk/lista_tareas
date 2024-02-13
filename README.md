@@ -1,3 +1,13 @@
+Instalacion: 
+Clonar el repositorio
+git clone https://github.com/Cyb0rgPunk/lista_tareas.git
+Crear una DB Mysql con el nombre lista_tareas
+Editar el archivo app/Config/Database.php y configurar el accedo a la DB
+
+ejecutar los  siguietes comandos en la terminal para desplquegar la aplicacion: 
+php spark migrate (crea las tablas)
+php spark serve (ejecuta un servidor http)
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
