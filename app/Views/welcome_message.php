@@ -232,7 +232,11 @@
 
 <section>
 
+<<<<<<< HEAD
     <h1>About this page</h1>
+=======
+    <h1>2022" this page</h1>
+>>>>>>> develop
 
     <p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
 
