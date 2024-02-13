@@ -6,9 +6,13 @@ use CodeIgniter\Router\RouteCollection;
  * @var RouteCollection $routes
  */
 <<<<<<< HEAD
+<<<<<<< HEAD
 $routes->get('/', 'Home::index');
 =======
 $routes->get('/', 'Dashboard::index');
+=======
+$routes->get('/', 'CTask::index');
+>>>>>>> develop
 
 
 //Tareas
