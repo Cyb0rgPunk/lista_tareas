@@ -49,7 +49,6 @@ defined('DECADE') || define('DECADE', 315_360_000);
 define('ESTADOS', ["Pendiente","Finalizado"]);
 define('CATEGORIAS', ["Trabajo", "Personal", "Estudio"]);
 
->>>>>>> develop
 /*
  | --------------------------------------------------------------------------
  | Exit Status Codes
